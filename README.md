@@ -1,6 +1,24 @@
 # ssb-grant
 A proposal for #ssb-grats for integrating ValueFlows to SSB and creating a replicable process of integrating into a local community mesh
 
+> The economic logic is mutual coordination between nodes in the network. We think best done bioregionally. @bobhaugen
+
+### How is this useful for 10 people?
+A small group of peers (3-10) has to cooperate together to produce a specific result (production of phisycal good, a document, a website, etc).
+They need to explode the whole process in several commitments and assign themselves to one or more commitments, keeping track of the whole value flow.
+They have a chat group where they talk about their work / updates. They will log their work directly on the chat and retrieve information about current process status / next commitments to do.
+
+### How is this useful for 100 people?
+A cooperative (10 - 100 members) needs to organize their internal process flow. They need to keep track of all members commitments because in their last assembly they decided to distribute income to each member according to a custom distribution formula.
+The coop needs to keep track of its inventory too, sending automatic request to one of its wholesale each time a specific item in the inventory reaches 0 qty.
+
+### How is this useful for 1000 people?
+A network of cooperatives wants to collaborate together in order to improve their autonomy and trim their budget. They will share part of their inventory, work together on several processes and exchange resources among them.
+
+### How is this useful for me?
+i'd like to implement Murray Bookchin vision of libertarian municipalism
+
+
 
 # Rules
 
