@@ -1,7 +1,18 @@
 # ssb-grant
-A proposal for #ssb-grats for integrating ValueFlows to SSB and creating a replicable process of integrating into a local community mesh
+
+## What are you going to do?
+
+Create a social experiment using a mesh of micro-controllers to create the basic network strata where SSB applications can run to serve a quilombola community in Brazil. The purpose is to unlock economic and political power from within the community as well as to better manage the bioregional ecosystem in the most transparent way possible.
 
 > The economic logic is mutual coordination between nodes in the network. We think best done bioregionally. @bobhaugen
+
+To achieve this, as discussed with Bob, we need to create an easy to use boilerplate for native Android applications to run SSB on, as well as an easy to follow guide for creating these apps. The first applications would be to enable:
+- Mutal credit system (following @Cel's example)
+- Cooperative buying platform (similar but simpler than [cobuy](https://www.rootsystems.nz/products/cobuy/readme.html))
+- Producer cooperatives platform
+- Watershed management system
+
+This could also serve as a forkable [process](https://www.valueflo.ws/introduction/processes.html) to be implemented in bioregions with similar social/economical characteristics, which is very common at least in Brazil, and probably in many parts of Latin America, Africa and Asia.
 
 ### How is this useful for 10 people?
 A small group of peers (3-10) has to cooperate together to produce a specific result (production of phisycal good, a document, a website, etc).
